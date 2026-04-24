@@ -14,6 +14,17 @@ A simple Machine Learning web app built using Streamlit that predicts the resale
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Input Interface
+
+![Home](Home.png)
+
+### 💰 Prediction Result
+
+![Result](Result.png)
+
+
 ## 🧠 Model Inputs
 
 The model uses the following features:
